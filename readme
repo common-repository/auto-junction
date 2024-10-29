@@ -1,0 +1,51 @@
+=== Auto Junction ===
+Contributors: jimburnettva
+Donate link: http://www.techburnett.com
+Tags: commission junction, affiliate marketing
+Requires at least: 3.3.1
+Tested up to: 3.5.1
+Stable tag: 1.3
+
+Allows you to display commission junction affiliate products realted to individual blog posts.
+
+== Description ==
+
+Auto Junction allows you to display commission junction products related to your blog posts. When you write a blog post you can use a special custom field to add a keyword. The auto-junction plugin then goes out and gets related products from companies you are affiliated with through commission junction. This allows you to sell products off your blog posts but also display RELATED products if not the actual thing. 
+<br /><br />
+Developed by <a href="http://www.techburnett.com">Jim Burnett</a>
+
+== Installation ==
+
+1. Install the plugin.<br />
+2. Edit the plugin file to change your commission junction API key.
+== Frequently Asked Questions ==
+= What is the name of the custom field to use? =
+cj-keywords with spaces between each keyword as a value.
+
+== Screenshots ==
+
+1. As you can see in this screen shot my blog post has related commission junctions products showing up. 
+
+== Changelog ==
+= 1.3 =
+Testing to make sure it works in 3.5.x
+
+= 1.2 =
+Added a ja_show_one function to display just one item.
+
+= 1.1 =
+* Fixed so ads only show on single blog posts.
+
+= 1.0 =
+* 
+
+
+
+== Upgrade Notice ==
+= 1.1 =
+Important fix.
+
+= 1.0 =
+* 
+
+
